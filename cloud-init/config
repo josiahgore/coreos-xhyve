@@ -1,3 +1,4 @@
+#cloud-config
 coreos:
   # https://coreos.com/os/docs/latest/cloud-config.html#etcd2
   etcd2:
